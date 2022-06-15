@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=x\ y
+comment1.target=Player(int,\ int)
+comment2.params=x
+comment2.target=void\ setJumpSpeed(int)
+comment3.params=
+comment3.target=int\ getJumpSpeed()
+comment4.params=
+comment4.target=void\ moveLeft()
+comment5.params=
+comment5.target=void\ moveRight()
+comment6.params=
+comment6.target=boolean\ hasReachedLimit()
+numComments=7
